@@ -1,0 +1,8 @@
+#Folder yang harus diabaikan
+node_module/
+dist/
+.vscode/
+
+#File log/temp
+*.log
+*.tmp
